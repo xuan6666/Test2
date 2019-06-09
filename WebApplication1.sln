@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UntiMonth", "WebApplication
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UUU", "UUU\UUU.csproj", "{6D126B87-D4AD-4BDD-A4BF-B19E1DBB4806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{C8C913DB-45D8-437C-94C5-587335700AC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6D126B87-D4AD-4BDD-A4BF-B19E1DBB4806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D126B87-D4AD-4BDD-A4BF-B19E1DBB4806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D126B87-D4AD-4BDD-A4BF-B19E1DBB4806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C913DB-45D8-437C-94C5-587335700AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C913DB-45D8-437C-94C5-587335700AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C913DB-45D8-437C-94C5-587335700AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C913DB-45D8-437C-94C5-587335700AC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
